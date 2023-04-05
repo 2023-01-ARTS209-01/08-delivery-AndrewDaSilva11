@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Package
   - Customer
+  - boost
+  - SpeedBoost
+  - Ground
   layers:
   - Default
   - TransparentFX
